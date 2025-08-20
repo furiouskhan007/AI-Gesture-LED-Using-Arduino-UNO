@@ -1,4 +1,4 @@
-![alt text](https://github.com/furiouskhan007/AI-Gesture-LED-Using-Arduino-UNO/blob/main/ezgif.com-animated-gif-maker.gif?raw=true)
+
 
 # AI-Gesture-LED-Using-Arduino-UNO
 
@@ -53,3 +53,6 @@ This project demonstrates how artificial intelligence and gesture recognition ca
    ```bash
    git clone https://github.com/furiouskhan007/AI-Gesture-LED-Using-Arduino-UNO.git
    cd AI-Gesture-LED-Using-Arduino-UNO
+   
+##  Here is output Sample
+![alt text](https://github.com/furiouskhan007/AI-Gesture-LED-Using-Arduino-UNO/blob/main/ezgif.com-animated-gif-maker.gif?raw=true)
